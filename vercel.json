@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://neteaseapi.amzcd.top/:match*"
+      "destination": "https://ncmapi.crisq.top/:match*"
     }
   ]
 }
